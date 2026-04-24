@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Database
+*.db
+*.sqlite
+
+# Reports output
+reports_output/
+
+# OCR model cache
+~/.paddleocr/
+inference/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+_preprocessed_temp.jpg
